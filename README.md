@@ -1,4 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackcocoon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcocoon&count_private=true)
 
 - 👋 Hi, I’m @blackcocoon
 - 👀 I’m interested in ...
