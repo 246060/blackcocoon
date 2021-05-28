@@ -14,9 +14,8 @@
 
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
 ![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
+
+![](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![](https://img.shields.io/badge/vagrant-1868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
