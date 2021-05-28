@@ -1,8 +1,5 @@
 ![main image](helloworld.gif)
 
-
-
----
 # Tech Stack
 
 ![](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
