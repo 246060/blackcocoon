@@ -3,6 +3,8 @@
 
 
 ---
+# Tech Stack
+
 ![](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +17,3 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/vagrant-1868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-
-
-
-
