@@ -1,6 +1,6 @@
 ![main image](helloworld.gif)
 
-# ✨Tech Stack 📚🔨
+# Tech Stack 📚🔨
 
 ![](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
