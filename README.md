@@ -17,7 +17,7 @@
 
 ![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 
-![](https://img.shields.io/badge/Intellij-IDEA-000000.svg?style=for-the-badge&logo=Intellij-IDEA&logoColor=white)
+![](https://img.shields.io/badge/Intellij-000000.svg?style=for-the-badge&logo=Intellij-IDEA&logoColor=white)
 
 
 
