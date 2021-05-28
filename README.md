@@ -15,7 +15,8 @@
 ![](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 
 ![](https://img.shields.io/badge/Intellij-000000.svg?style=for-the-badge&logo=Intellij-IDEA&logoColor=white)
 
