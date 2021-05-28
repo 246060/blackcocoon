@@ -17,7 +17,7 @@
 
 ![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![](https://img.shields.io/badge/StringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 ![](https://img.shields.io/badge/Intellij-000000.svg?style=for-the-badge&logo=Intellij-IDEA&logoColor=white)
 
