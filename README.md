@@ -14,3 +14,8 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/vagrant-1868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+![](https://img.shields.io/badge/Apache_Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache-Tomcat&logoColor=white)
+![](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
+
+![](https://img.shields.io/badge/VsCode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
